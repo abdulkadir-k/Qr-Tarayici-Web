@@ -1,0 +1,9 @@
+/* Inter fontu */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Dosya seçme butonunu gizle */
+#fileInput {
+    display: none;
+}
