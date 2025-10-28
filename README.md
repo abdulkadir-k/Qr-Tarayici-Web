@@ -38,7 +38,7 @@ Projeyi yerel olarak çalıştırmak için şu adımları izle:
 ```bash
 git clone https://github.com/abdulkadir-k/Qr-Tarayici-Web.git
 cd Qr-Tarayici-Web
-
+```
 
 ---
 
