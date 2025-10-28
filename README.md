@@ -39,3 +39,12 @@ Projeyi yerel olarak çalıştırmak için şu adımları izle:
 git clone https://github.com/abdulkadir-k/Qr-Tarayici-Web.git
 cd Qr-Tarayici-Web
 
+
+---
+
+## 🔗 Canlı Demo
+
+💻 **Canlı olarak nasıl göründüğüne buradan bakabilirsin:**  
+👉 [https://abdulkadir-k.github.io/Qr-Tarayici-Web/](https://abdulkadir-k.github.io/Qr-Tarayici-Web/)
+
+---
